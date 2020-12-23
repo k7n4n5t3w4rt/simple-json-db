@@ -1,0 +1,19 @@
+{
+  "name": "simple-json-db",
+  "version": "1.0.0",
+  "description": "A version of this repo that doesn't have an empty object for \"fs\" - https://github.com/nmaggioni/Simple-JSONdb",
+  "main": "simple-json-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k7n4n5t3w4rt/simple-json-db.git"
+  },
+  "author": "Kynan Stewart Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k7n4n5t3w4rt/simple-json-db/issues"
+  },
+  "homepage": "https://github.com/k7n4n5t3w4rt/simple-json-db#readme"
+}
